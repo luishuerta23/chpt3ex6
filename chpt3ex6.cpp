@@ -45,7 +45,7 @@ int main()
 
     // Results
 
-       cout << "\nTo make " << cookiesWanted << " cookies, you will need:\n";
+       cout << "\nIn order to make " << cookiesWanted << " cookies, you will need the following ingredients:\n";
     cout << sugarRounded << " cups of sugar\n";
     cout << butterRounded << " cups of butter\n";
     cout << flourRounded << " cups of flour\n";
